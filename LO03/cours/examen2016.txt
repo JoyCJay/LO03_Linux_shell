@@ -1,0 +1,18 @@
+1 :
+2-1 :  tableau_array=($(echo $a | sed 's/-/ /g'))
+2-2 :  afficher combien de nombre il exist dans le tableau
+2-3 :  on va prendre un tableau sum[],il nous donne le sum du jour de 1.1 a la mois qui est correspandant l'indice de sum[].Par exemple sum[1]=31,sum[2]=31+28=59
+2-4:  $(bash ex2-4.awk) $(./ex2-4.sh)
+3 : 
+4 : 
+5 : 
+7 : "su toto"-changer login avec l'environement maitenant(/bin/bash,home directory...etc) Mais "su -toto" est avec l'environement de toto
+8 : 
+9 : -executer "updatedb" 'a l'identite de /root/ 'a 1:17 chaque Jeudi
+    -executer "/etc/mon_script" 'a l'identite de /root/ 'a 6:25 le premier jour 
+    chaque mois
+10 : 1 4 2 2 4 1 3 3 1 2 0 0 2 3 4
+     -----------------------------
+  1  1 1 1 1 1 1 1 1 1 1 1 1 1 3 3
+  2    4 4 4 4 4 4 4 4 2 2 2 2 2 2
+  3      2 2 2 2 3 3 3 3 0 0 0 0 4

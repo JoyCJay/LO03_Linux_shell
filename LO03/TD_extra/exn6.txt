@@ -1,0 +1,2 @@
+-rw-r--r-- 1 root root 401 12月 29  2014 /etc/anacrontab
+-rw-r--r-- 1 root root 722 4月   6  2016 /etc/crontab
